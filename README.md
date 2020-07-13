@@ -1,2 +1,0 @@
-# demoapp
-gitcommands demo app
